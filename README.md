@@ -1,8 +1,10 @@
 ### Welcome!
 
-- 🌱 I’m currently learning and improving my knowledge of Javascript, Java, Python, C++, C#, HTML and CSS.
-- 📫 How to reach me: matheus.sdoliveira@gmail.com
-- 😄 Pronouns: ele/dele/he/him
+I'm a Game Programmer and Full Stack Developer, practicing and improving my knowledge of Javascript, Java, Python, C++, C#, HTML and CSS.
+
+I'm always trying to implement different features to practice and to solve "problems" that came out of my curiosity.
+
+- 📫 You can e-mail me: matheus.sdoliveira@gmail.com
 
 <div align="center">
   <a href="https://github.com/Matheuscroft">
@@ -22,6 +24,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     
    ##
+- Check my social media:
     
 <div> 
   <a href="https://www.linkedin.com/in/matheus-de-oliveira-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
