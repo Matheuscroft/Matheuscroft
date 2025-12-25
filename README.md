@@ -1,8 +1,7 @@
 ### Welcome!
 
-I'm a Game Programmer and Full Stack Developer, practicing and improving my knowledge of Javascript, Java, Python, C++, C#, HTML and CSS.
-
-I'm always trying to implement different features to practice and to solve "problems" that came out of my curiosity.
+I'm a Game Programmer and Full Stack Developer, passionate about practicing and improving my skills in JavaScript, Java, Python, C++, C#, HTML, and CSS.
+I’m always exploring new features to implement, both to practice and to solve challenges that arise from my curiosity.
 
 - 📫 You can e-mail me: matheus.sdoliveira@gmail.com
 
